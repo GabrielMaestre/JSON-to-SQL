@@ -1,3 +1,11 @@
+./json/
+./result/
+./json
+./result/*
+./json/*
+json/
+result/
+
 # Logs
 logs
 *.log
